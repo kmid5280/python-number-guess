@@ -1,0 +1,1 @@
+A number guessing game in Python. Player has ten chances to correctly guess a number between 1 and 100. When the game is over the player has the option to restart the game.
